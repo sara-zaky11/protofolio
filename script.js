@@ -1,0 +1,2 @@
+/* No JavaScript was present in the original portfolio.
+   This file is linked from index.html and ready for future functionality. */
